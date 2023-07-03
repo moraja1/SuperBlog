@@ -1,0 +1,6 @@
+Este es el primer archivo de mi repositorio de git y github del curso 
+git y github profesional de platzi. 
+
+Mi nombre el Jaison y tengo 27 años. Aproximadamente 3 años de estudiar programación, el primero
+por mi cuenta y ya 2 años de Ingeniería Universitaria, y puedo decir que esto es lo que de 
+verdad me apasiona, programar. 

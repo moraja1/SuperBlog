@@ -14,3 +14,5 @@ personales y no me voy a dar por vencido hasta tener un proyecto en el que pueda
 durante la vejez.
 
 En este momento me estoy enfocando en mi desarrollo profesional.
+
+Este cambio es para probar git reset --soft

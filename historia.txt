@@ -16,3 +16,5 @@ durante la vejez.
 En este momento me estoy enfocando en mi desarrollo profesional.
 
 Este cambio es para probar git reset --soft
+
+Este cambio es para probar git reset --mixed

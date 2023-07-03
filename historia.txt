@@ -20,3 +20,5 @@ Este cambio es para probar git reset --soft
 Este cambio es para probar git reset --mixed
 
 Este cambio es para probar git reset --hard
+
+Se probo correctamente que git reset <###> --hard elimina absolutamente todo

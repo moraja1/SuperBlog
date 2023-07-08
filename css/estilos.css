@@ -1,4 +1,5 @@
 body {
+   background: rgb(53, 53, 53);
    color: blue;
    text-align: center;
    font-family: Arial, Helvetica, sans-serif;
@@ -21,15 +22,22 @@ body {
 
 #post {
    padding: 1em;
+   background: white;
 }
 
 #header {
-   background: #33a;
+   background: rgb(88, 98, 238);
    box-shadow: 0px 2px 20px 0px rgba(0, 0, 0, 0.5);
    color: white;
    font-weight: bold;
    margin: 0;
    padding: 0.5em;
+}
+
+#header #logo
+{
+   width: 20px;
+   vertical-align: middle;
 }
 
 #header #tagline {

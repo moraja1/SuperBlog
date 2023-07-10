@@ -22,6 +22,8 @@
 	 - branch
 	 - checkout
 	 - remote
+	 - cherry-pick
+	 - reflog
 	 - Otros 😉
 - **Cosas que se pueden hacer en Github:**
 	- Pull Request

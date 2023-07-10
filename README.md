@@ -16,6 +16,7 @@
 - **Comandos avanzados de git y github:**
 	 - merge
 	 - rebase
+	 - stash
 	 - pull
 	 - push
 	 - branch

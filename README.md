@@ -24,6 +24,8 @@
 	 - remote
 	 - cherry-pick
 	 - reflog
+	 - shortlog
+	 - blame
 	 - Otros 😉
 - **Cosas que se pueden hacer en Github:**
 	- Pull Request
